@@ -6,7 +6,7 @@ function App() {
       <Container maxW="container.xl" py={8}>
         <VStack spacing={8}>
           <Heading>StarterNode Dashboard</Heading>
-          <Button colorScheme="brand" size="lg">
+          <Button colorScheme="blue" size="lg">
             New Payment
           </Button>
         </VStack>
